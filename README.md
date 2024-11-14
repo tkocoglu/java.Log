@@ -1,2 +1,2 @@
 # java.Log
-Buraya java da yazdığım kod parçalarını yükleyeceğim
+I will upload the code snippets I wrote in Java here.
